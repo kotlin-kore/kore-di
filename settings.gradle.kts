@@ -7,3 +7,6 @@
  */
 
 rootProject.name = "kore-di"
+
+include("api")
+include("processor")
